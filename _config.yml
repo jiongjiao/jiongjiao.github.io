@@ -6,7 +6,7 @@ permalink: ':title/'
 
 markdown: kramdown
 #baseurl: "/karna"
-baseurl: "/"
+baseurl: ""
 
 
 sass:
